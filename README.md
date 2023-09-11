@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TeganCodes
-- 👀 I’m interested in doing somthing in the future with coding.
+- 👀 I’m interested in doing something in the future with coding.
 - 🌱 I’m currently learning how to code using python.
-- 💞️ I’m looking to collaborate on anything that is possible for begginers.
+- 💞️ I’m looking to collaborate on anything that is possible for beginners.
 - 📫 How to reach me hopetegan@icloud.com
 
 <!---
